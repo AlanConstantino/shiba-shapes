@@ -1,7 +1,9 @@
 # shiba-shapes
 A shape generator with shiba images.
 
-Utilized the [shibes.online](https://shibe.online/) API for shibe images.
+This project was written in vanilla JavaScript.
+
+Utilizes the [shibes.online](https://shibe.online/) API for shibe images.
 
 ## Final Product without collision detection
 <img src="./images/final-product-no-collision.gif" alt="final-product-no-collision.gif">
